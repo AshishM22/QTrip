@@ -57,8 +57,7 @@ function addCityToDOM(id, city, description, image) {
                                 <h5>${id}</h5>
                                 <p>${description}</p>
                               </div>
-                             <img class="img-fluid" src="placeholder.jpg" data-src="image.jpg" alt="City" loading="lazy">
-
+                                <img src=${image} alt=${id} loading="lazy">
                             </div>
                           </a>
                         </div>
