@@ -5,34 +5,30 @@
 # Following are the Screenshots of the travel-vista with its functionality -
 
 #### Landing Page with the Search feature
-![LandingPage](https://github.com/AshishM22/Travel-Vista/assets/99782102/de4bd718-ac2b-4fe5-a6c0-b249497b587f)
+![Landing Page](https://github.com/AshishM22/Travel-Vista/assets/99782102/c59195df-4558-42c6-8f0e-444ad0c28f83)
 
 
 
 #### City Grid where user can select City they want to visit
 
-![grid](https://github.com/AshishM22/Travel-Vista/assets/99782102/43c77f62-407e-4d32-b102-e798a69a9d5c)
+![City Grid](https://github.com/AshishM22/Travel-Vista/assets/99782102/dcf42c33-0e6a-44de-94a4-5893e0fa222e)
 
 
 #### Adventure Page which comes into picture when user clicks on respective City of their choice on Landing Page
 
-![adventurePage](https://github.com/AshishM22/Travel-Vista/assets/99782102/dcde2da3-9498-47db-ac80-740e90a3b259)
+![Adventure Page](https://github.com/AshishM22/Travel-Vista/assets/99782102/64599423-7c3e-4cac-a5bd-95c5ea09fb5f)
 
 
 
 #### It is adventure detail page which comes into picture when user wants to book a particular adventure from adventure page
 
-![adventure-detail](https://github.com/AshishM22/Travel-Vista/assets/99782102/d76cec3c-f881-4df1-b7ec-5bebfe78a11a)
+![Adventure Detail Page](https://github.com/AshishM22/Travel-Vista/assets/99782102/5c7f117a-07ef-4be1-bb36-051abb6c62b2)
 
-
-#### If adventure is sold out it will be shown in this way
-
-![soldout](https://github.com/AshishM22/Travel-Vista/assets/99782102/91a1ad25-3a66-4b13-a3c8-a75861a943a7)
 
 
 #### Reservation page : Where all the Reservation made by us will be shown
 
-![reservation](https://github.com/AshishM22/Travel-Vista/assets/99782102/23d548f6-00cc-4160-be7c-a8a0023e6c26)
+![Reservation Page](https://github.com/AshishM22/Travel-Vista/assets/99782102/900925e7-2b83-4d1c-ba8e-ac811cbf9016)
 
 
 
