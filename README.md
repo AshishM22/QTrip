@@ -1,10 +1,10 @@
-# Travel-Vista 
+# QTrip
 
-#### Travel Vista is a dynamic travel booking website designed to inspire and facilitate memorable journeys. With a user-friendly interface, it offers a comprehensive selection of travel destinations, adventures, and experiences. Users can effortlessly explore and book their dream trips while discovering captivating destinations through vivid images and engaging descriptions. Travel Vista's modern design, integrated search functionality, and efficient navigation make it a seamless platform for travelers seeking to embark on new adventures and create unforgettable memories.
+#### QTrip is a dynamic travel booking website that inspires and facilitates memorable journeys. A user-friendly interface offers a comprehensive selection of travel destinations, adventures, and experiences. Users can effortlessly explore and book their dream trips while discovering captivating destinations through vivid images and engaging descriptions. Travel Vista's modern design, integrated search functionality, and efficient navigation make it a seamless platform for travelers seeking to embark on new adventures and create unforgettable memories.
 
-# Following are the Screenshot of the travel-vista with its functionality -
+# Following are the Screenshots of the travel-vista with its functionality -
 
-#### Landing Page with Search feature
+#### Landing Page with the Search feature
 ![LandingPage](https://github.com/AshishM22/Travel-Vista/assets/99782102/de4bd718-ac2b-4fe5-a6c0-b249497b587f)
 
 
